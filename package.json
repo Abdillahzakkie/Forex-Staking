@@ -1,0 +1,27 @@
+{
+  "name": "ferox",
+  "version": "1.0.0",
+  "description": "Forex staking contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdillahzakkie/Forex-Staking.git"
+  },
+  "author": "dragontrybe@pm.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdillahzakkie/Forex-Staking/issues"
+  },
+  "homepage": "https://github.com/Abdillahzakkie/Forex-Staking#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0",
+    "truffle": "^5.1.53"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.9",
+    "ganache-cli": "^6.12.1"
+  }
+}
