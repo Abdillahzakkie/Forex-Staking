@@ -21,7 +21,7 @@
     "truffle": "^5.1.53"
   },
   "devDependencies": {
-    "@openzeppelin/test-helpers": "^0.5.9",
+    "@openzeppelin/test-helpers": "^0.5.16",
     "ganache-cli": "^6.12.1"
   }
 }
